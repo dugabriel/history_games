@@ -1,0 +1,35 @@
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+    list-style: none;
+}
+.rp{
+    height: 40px;
+    width: 40px;
+}
+#intro{
+    font-size: large;
+}
+#intro.h1{
+    text-align: center;
+}
+#intro.p{
+    justify-content: center;
+}
+.container{
+    align-items: center;
+}
+.main-title{
+    text-align: center;
+    padding: 20px;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    justify-content: center;
+}
